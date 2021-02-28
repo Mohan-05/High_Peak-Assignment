@@ -1,0 +1,12 @@
+The goodies selected for the distribution are:
+
+MI Band: 999
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+IPods: 22349
+
+And the difference between the chosen goodie with highest price and the lowest price is 21350
